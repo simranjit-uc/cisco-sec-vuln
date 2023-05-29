@@ -3,11 +3,12 @@ This API can be used to identify security vulnerabilities on Cisco products. Thi
 - Grab vulnerability details on Cisco's CUCM Product and format them in an Excel spreadsheet
 - Integrate those identified vulnerabilities with Service Now.
 
-## Prerequisites
+## Prerequisites/Instructions
 - Python 3.x
 - Client ID and Password for the App registered on Cisco's API Console
 - Libraries like Requests and Openpyxl
 - Service Now instance and access to its REST APIs
+- Use your own API Client ID/Password and Service Now API access credentials
 
 ## Cloning the App
 You can simply issue the following command from the command prompt on your computer to clone this app to your local directory
