@@ -28,4 +28,5 @@ You should see two outputs as shown below.
 
 ## More details
 For more details on what this code means, you can check out the following links
-- https://learnuccollab.com/2023/05/07/automate-cisco-cucm-security-vulnerability-workflow-identification-collection/
+- Part 1 : https://learnuccollab.com/2023/05/07/automate-cisco-cucm-security-vulnerability-workflow-identification-collection/
+- Part 2 : https://learnuccollab.com/2023/05/28/integrate-cisco-cucm-security-vulnerability-workflow-with-service-now/
