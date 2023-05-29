@@ -11,7 +11,9 @@ This API can be used to identify security vulnerabilities on Cisco products. Thi
 
 ## Cloning the App
 You can simply issue the following command from the command prompt on your computer to clone this app to your local directory
+```
 git clone https://github.com/simranjit-uc/cisco-sec-vuln
+```
 
 ## Running the App
 You can run the app directly from the command prompt or any other program like PyCharm which is what I use.
@@ -25,4 +27,4 @@ You should see two outputs as shown below.
 
 ## More details
 For more details on what this code means, you can check out the following links
-https://learnuccollab.com/2023/05/07/automate-cisco-cucm-security-vulnerability-workflow-identification-collection/
+- https://learnuccollab.com/2023/05/07/automate-cisco-cucm-security-vulnerability-workflow-identification-collection/
